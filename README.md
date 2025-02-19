@@ -55,6 +55,9 @@ https://github.com/user-attachments/assets/cab3207e-95bc-4019-9067-401f760bdc71
 - **Tâche :**
     - **Chiffrement** d'un fichier texte avec **OpenSSL**.
 
+📌 **Démo :**  
+<img width="1792" alt="Screenshot 2025-02-19 at 17 46 57" src="https://github.com/user-attachments/assets/fd34b83b-3b76-49ba-a6c4-399f093a9121" />
+
 - **Questions et réponses :**
     - **e - (Documenter le mot de passe) :** `yassirjr`
     - **f - (Le contenu du fichier message.enc s'affiche-t-il correctement ?) :**
@@ -73,6 +76,9 @@ https://github.com/user-attachments/assets/cab3207e-95bc-4019-9067-401f760bdc71
 
 - **Tâche :**
     - **Déchiffrement** du fichier `message.enc` avec **OpenSSL**.
+ 
+📌 **Démo :**  
+<img width="1792" alt="Screenshot 2025-02-19 at 18 13 24" src="https://github.com/user-attachments/assets/e72cb42a-0a83-4fc7-bcae-9bcfc6193d18" />
 
 - **Questions et réponses :**
     - **i - (La lettre a-t-elle été correctement déchiffrée ?) :**
