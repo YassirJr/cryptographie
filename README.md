@@ -2,12 +2,12 @@
 
 ## 📌 Sommaire
 
-- [TP1 - Utiliser des algorithmes de chiffrement classiques et modernes](#-tp1)
-- [TP2 - Chiffrer et déchiffrer des données avec OpenSSL](#-tp2)
+- [TP1 - Utiliser des algorithmes de chiffrement classiques et modernes](#tp1)
+- [TP2 - Chiffrer et déchiffrer des données avec OpenSSL](#tp2)
 
 ---
 
-## 🔐 TP1
+## TP1
 
 ### ✨ Partie 1 : Algorithme de chiffrement classique (Caesar)
 
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/cab3207e-95bc-4019-9067-401f760bdc71
 
 ---
 
-## 🛡️ TP2
+## TP2
 
 ### 🔹 Partie 1 : Chiffrer des messages avec OpenSSL
 
