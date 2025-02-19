@@ -17,7 +17,7 @@
     - Modifiez les paramètres de l'algorithme.
 
 📌 **Démo :**  
-🔗
+
 https://github.com/user-attachments/assets/a9de1655-66e1-4a24-9099-3f74dcfbe116
 
 <img width="800" alt="Screenshot" src="https://github.com/user-attachments/assets/135383c6-75f3-46ee-8421-d06618a81210" />
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/a9de1655-66e1-4a24-9099-3f74dcfbe116
     - **Déchiffrez** un message texte avec **AES**.
 
 📌 **Démo :**  
-🔗
+
 https://github.com/user-attachments/assets/ad88922a-f006-439f-b8bc-0cf8b9b36ba5
 
 ---
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/ad88922a-f006-439f-b8bc-0cf8b9b36ba5
     - **Déchiffrez** un fichier texte avec **RSA**.
 
 📌 **Démo :**  
-🔗
+
 https://github.com/user-attachments/assets/cab3207e-95bc-4019-9067-401f760bdc71
 
 ---
