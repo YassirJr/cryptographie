@@ -2,8 +2,8 @@
 
 ## 📌 Sommaire
 
-- [TP1 - Utiliser des algorithmes de chiffrement classiques et modernes](#tp1)
-- [TP2 - Chiffrer et déchiffrer des données avec OpenSSL](#tp2)
+- [TP1 - Utiliser des algorithmes de chiffrement classiques et modernes](#-tp1)
+- [TP2 - Chiffrer et déchiffrer des données avec OpenSSL](#-tp2)
 
 ---
 
