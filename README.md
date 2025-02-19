@@ -12,12 +12,21 @@
     * Modifiez les paramètres de l'algorithme Cesar.
       
 ### Partie 1 : Demo
-https://github.com/user-attachments/assets/d21d613f-d207-4750-9597-08aa4f2a0481
+
+https://github.com/user-attachments/assets/a9de1655-66e1-4a24-9099-3f74dcfbe116
+<img width="1792" alt="Screenshot 2025-02-19 at 16 49 12" src="https://github.com/user-attachments/assets/135383c6-75f3-46ee-8421-d06618a81210" />
 
 - Partie 2 / Utilisez un algorithme de chiffrement symétrique moderne (AES) :
     * Utilisez le chiffrement AES pour chiffrer un message texte.
     * Utilisez AES pour déchiffrer un message texte.
+ 
+### Partie 2 : Demo
+https://github.com/user-attachments/assets/ad88922a-f006-439f-b8bc-0cf8b9b36ba5
 
 - Partie 3 / Utilisez un algorithme de chiffrement asymétrique moderne (RSA) :
     * Utilisez le chiffrement asymétrique RSA pour chiffrer un fichier texte.
     * Utilisez le chiffrement asymétrique RSA pour déchiffrer un fichier texte.
+
+### Partie 3 : Demo
+https://github.com/user-attachments/assets/cab3207e-95bc-4019-9067-401f760bdc71
+
