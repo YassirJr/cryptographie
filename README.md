@@ -10,6 +10,7 @@
     * Utilisez l'algorithme Cesar pour chiffrer un message texte.
     * Déchiffrez le texte chiffré avec l'algorithme Cesar.
     * Modifiez les paramètres de l'algorithme Cesar.
+    * https://github.com/user-attachments/assets/d21d613f-d207-4750-9597-08aa4f2a0481
 
 - Partie 2 / Utilisez un algorithme de chiffrement symétrique moderne (AES) :
     * Utilisez le chiffrement AES pour chiffrer un message texte.
