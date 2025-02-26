@@ -4,6 +4,7 @@
 
 - [TP1 - Utiliser des algorithmes de chiffrement classiques et modernes](#tp1)
 - [TP2 - Chiffrer et déchiffrer des données avec OpenSSL](#tp2)
+- [TP3 - Utiliser la stéganographie pour masquer les données](#tp3)
 
 ---
 
@@ -92,3 +93,27 @@ https://github.com/user-attachments/assets/cab3207e-95bc-4019-9067-401f760bdc71
 
 
 ---
+
+## TP3
+
+### 🎨 Objectif : Utiliser la stéganographie pour dissimuler un document dans un fichier JPEG.
+
+- **Questions et réponses :**
+    - **a - (Quel est le message dans le secret.odt ?) :**
+        - The secret document
+    - **b - (Ces fichiers ont-ils changé ?) :**
+        - Non (les fichiers `secret.odt` et `secret.jpg` n'ont pas changé)
+    - **c - (Avez-vous pu ouvrir le fichier ? Le message secret est-il toujours le même ?) : **
+      - Oui, j'ai pu ouvrir le fichier `secret.jpg` sans problème. Le message secret est toujours le même.
+
+
+## TP4
+
+### 🎨Objectif : Chiffrement et déchiffrement de données à l'aide d'un outil pirate
+
+- **Questions et réponses :**
+    - **a - (Combien de temps faut-il pour découvrir le mot de passe ?) :**
+        - 1 seconde
+    - **b - (Combien de temps faut-il pour découvrir le mot de passe ?) :**
+        - 1 seconde
+    - **c - (Combien de temps faut-il pour découvrir le mot de passe ?) :**
